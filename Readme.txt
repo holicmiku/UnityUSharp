@@ -20,3 +20,18 @@ https://github.com/MerlinVR/UdonSharp
 
 https://github.com/CyanLaser/CyanEmu/releases/tag/v0.3.10
 
+------------------------------------------------------------------
+
+*When you want to test Global
+Follow this order.
+https://docs.vrchat.com/docs/creating-your-first-world
+
+*Also Global needs people at least 2 person
+
+Also My file which includes Global Event. You can upload and test directly
+e.g. Play_Particle_Global Local_Global_Owner
+     ViaOwner_CountUp
+     ChangeOwner_CountUp 
+	..
+
+VRChat SDK->Login->Builder-> Build & Publish for Windows
